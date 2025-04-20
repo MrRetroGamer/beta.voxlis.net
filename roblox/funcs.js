@@ -181,26 +181,33 @@ const expData = [
     free: false,
   },
   {
-    id: "solara",
-    name: "Solara v3",
-    desc: "A free exploit with decent performance.",
-    lvl: 3,
-    price: "FREE",
-    plat: ["windows"],
-    pros: ["Has a decompiler", "51% sUNC"],
-    neutral: ["Level 3", "Not stable"],
-    cons: [],
-    verified: true,
-    editor: "voxlis.NET",
-    txtColor: "text-blue-500",
-    accentColor: "from-blue-600 to-blue-700",
-    href: "https://linkvertise.com/1319977/solara?o=sharing",
-    priceHref: "https://yap.com/",
-    info: "## Exploit Performance \n- [Solara]() offers solid performance with minimal crashes or instability, making it a reliable option for most users. It receives fast and frequent updates, keeping up with Roblox patches to reduce downtime.\n- Unlike many executors that rely on complicated key systems, [Solara]() simplifies access by requiring users to complete a quick Linkvertise task during download, making setup more user-friendly.\n\n## Background Information \n- [Solara]() is owned and managed by [@quivings](), who was previously active in the script development scene.\n- While not much is publicly known about him, [@quivings]() has built a respectable reputation within the community for his work and consistent updates to the tool.\n",
-    hide: false,
-    hasKeySystem: false,
-    free: true,
-  },
+  "id": "solara",
+  "name": "Solara v3",
+  "desc": "A free exploit with decent performance.",
+  "lvl": 3,
+  "price": "FREE",
+  "plat": [
+    "windows"
+  ],
+  "pros": [
+    "Has a decompiler",
+    "51% sUNC"
+  ],
+  "neutral": [
+    "Level 3"
+  ],
+  "cons": [],
+  "verified": true,
+  "editor": "voxlis.NET",
+  "txtColor": "text-blue-500",
+  "accentColor": "from-blue-600 to-blue-700",
+  "href": "https://linkvertise.com/1319977/solara?o=sharing",
+  "priceHref": "https://yap.com/",
+  "info": "## Exploit Performance \n- [Solara]() offers solid performance with minimal crashes or instability, making it a reliable option for most users. It receives fast and frequent updates, keeping up with Roblox patches to reduce downtime.\n- Unlike many executors that rely on complicated key systems, [Solara]() simplifies access by requiring users to complete a quick Linkvertise task during download, making setup more user-friendly.\n\n## Background Information \n- [Solara]() is owned and managed by [@quivings](), who was previously active in the script development scene.\n- While not much is publicly known about him, [@quivings]() has built a respectable reputation within the community for his work and consistent updates to the tool.\n",
+  "hide": false,
+  "hasKeySystem": false,
+  "free": true
+},
   {
     id: "xeno",
     name: "Xeno",
